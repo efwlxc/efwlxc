@@ -15,7 +15,7 @@
 ## 👩‍💻 Website Project
 <p align="center">You can access the link by clicking on the image.</p>
 
-<a href="https://vibescripts.com.tr"><img width="30%" src="https://efwlxc.com.tr/assets/img/portfolio/vibescripts.png"></a>
+<a href="https://vibescripts.com.tr"><img width="50%" src="https://efwlxc.com.tr/assets/img/portfolio/vibescripts.png"></a>
 
 ## 🌐 Discord Profile
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/882582406358515713)](https://discord.com/users/882582406358515713)
