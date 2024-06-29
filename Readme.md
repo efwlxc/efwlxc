@@ -18,17 +18,14 @@
 <a href="https://vibescripts.com.tr"><img width="50%" src="https://efwlxc.com.tr/assets/img/portfolio/vibescripts.png"></a>
 
 ## 🌐 Discord Profile
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/882582406358515713)](https://discord.com/users/882582406358515713)
+[![Discord Presence](https://lanyard.cnrad.dev/api/882582406358515713)](https://discord.com/users/882582406358515713)
 
 ## 📈 Profile Stats
 <h2 align="center">
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/efwlxc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
  <br> </br>
-<img style="border-radius: 10px;" width="50%" src="https://vibescripts.com.tr/public/image-upload/uploads/d0a910639b850aecc99078aae7c37e05.jpeg">
+<img style="border-radius: 10px;" width="50%" src="https://vibescripts.com.tr/public/image-upload/uploads/58af721f7e9de5eb458f1b14f25d368c.jpeg">
 </h2>
-
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/iL9lOZY5OM) 
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=efwlxc&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
