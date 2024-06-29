@@ -15,7 +15,16 @@
 ## 👩‍💻 Website Project
 <p align="center">You can access the link by clicking on the image.</p>
 
-<a href="https://vibescripts.com.tr"><img width="50%" src="https://efwlxc.com.tr/assets/img/portfolio/vibescripts.png"></a>
+<p align="center">
+  <a href="https://vibescripts.com.tr">
+    <img width="45%" style="border-radius: 10px;" src="https://vibescripts.com.tr/public/image-upload/uploads/0c8e19dbd7f581b66026f16e9917edc4.png">
+  </a>
+  <a href="https://babyworldnatural.com">
+    <img width="45%" style="border-radius: 10px;" src="https://vibescripts.com.tr/public/image-upload/uploads/917ce3efbc7e2742efe8fe705e7a5a59.png">
+  </a>
+</p>
+
+
 
 ## 🌐 Discord Profile
 [![Discord Presence](https://lanyard.cnrad.dev/api/882582406358515713)](https://discord.com/users/882582406358515713)
